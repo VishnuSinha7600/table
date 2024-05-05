@@ -1,0 +1,44 @@
+body{
+  
+    margin: 0;
+    padding: 0;
+    padding: 10px 10px 100% ;
+    /* border-block: 5px; */
+    border: 10px solid black;
+    
+}
+
+table{
+   width: 100%;
+   height: auto;
+   border: 2px solid black;
+   font-family: sans-serif;
+   font-size: 20px;
+   border-collapse: collapse;
+}
+
+thead{
+    height: 50px;
+    text-align: left;
+    background-color: #008000;
+}
+
+th,
+td {
+  border: 1px solid rgb(160 160 160);
+  padding: 8px 10px;
+}
+
+tfoot{
+    text-align: left;
+    background-color: #e6e6e6;
+}
+
+
+
+tbody {
+    height: 70px;
+    text-align: left;
+   
+}
+
